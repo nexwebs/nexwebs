@@ -4,8 +4,11 @@
     </div>
 <div style="text-align: center; max-width: 600px; margin: 0 auto;">
   <h2 style="color: #333;">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
-  <p style="font-style: italic; color: #666; text-align: left;">Me llamo Claudio, desarrollo proyectos de <strong>Machine Learning Operations (MLOps)</strong> en industrias como Hotelería, Contac Center, Transportes y otros. Actualmente colaboró desarrollando soluciones empresariales en procesos de Base de Datos, ETL, Big Data y aplicaciones Web's con IA en Python.</p>
-  <p style="font-style: italic; color: #666; text-align: left;"> ¿Tienes dudas o sugerencias? ¿Los procesos de Analítica de Negocios experimentan constantemente demoras? ¿Como genera valor la IA y la automatización de procesos en negocios, áreas y /o componentes?, toma la decisión de implementar una aplicación Web desarrollada con la metodología Científica de los Datos.  </p>
-
-  <p style="font-style: italic; color: #666; text-align: left;">Desarrollo demos y consultorías adaptadas a tus necesidades y objetivos. Para cualquier consulta, pueden contactarme en <a href="mailto:clblommberg@gmail.com" style="color: #007bff; text-decoration: none;">clblommberg@gmail.com</a>!</p>
+  <p style="font-style: italic; color: #666; text-align: left;">Me llamo Claudio, desarrollo soluciones de <strong>Analytics, IA Predictiva y Automatización Inteligente</strong> para empresas que buscan tomar mejores decisiones con datos en tiempo real.</p>
+  <p style="font-style: italic; color: #666; text-align: left;">Implemento dashboards predictivos, agentes conversacionales y sistemas de gestión con facturación electrónica certificada.</p>
+ 
+   <p style="font-style: italic; color: #666; text-align: left; margin: 10px 0;">
+            Para consultas y demos, contáctame en <a href="https://nexwebs.soy.pe" style="color: #007bff; text-decoration: none; font-weight: bold;" target="_blank" title="Visita nexwebs">nexwebs.soy.pe</a>
+        </p>
+</div>
 </div>
